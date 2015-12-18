@@ -1,0 +1,8 @@
+Name: Muhammad Tallal
+Class: BESE-4B
+Reg No.: 04939
+
+GitHub Link: github.com/muhammadtallal/lab9
+
+Description:
+I have made a diuctionary which can search entered word in the dictionary, if the entered word is at start,in middle or at end, it searches it.
